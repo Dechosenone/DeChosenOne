@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 ⚡ I'm an enthusiastic graduate student who loves to participate in the field of machine learning, data science, and artificial intelligence. In my bachelor studies, I took on a number of leadership roles, and also I had academic experience as a teaching assistant when I was a senior student. Currently, I am a second-year master's student in the "ICT for Smart Societies" from the Polytechnic University of Turin. <br>
-⚡ Fun fact, Mostafa means *The Chosen One*! (◕‿◕)
+🐈 Fun fact, Mostafa means *The Chosen One*! (◕‿◕)
 
 
 ### 🌐 Socials:
