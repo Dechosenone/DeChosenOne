@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
 
 # 💫 About Me:
-⚡ I'm an enthusiastic graduate student who loves to participate in the field of deep learning, computer vision, data science, and artificial intelligence. Currently, I'm a graduate assistant at the Department of Computer Science and Engineering at UConn. You can send me an email if you have something interesting to talk about! <br>
+⚡ I'm an enthusiastic graduate student who loves to participate in the field of deep learning, computer vision, data science, and artificial intelligence. Currently, I'm a Ph.D. student at the Department of Computer Science and Engineering at UConn. You can send me an email if you have something interesting to talk about! <br>
 📧 mostafa.karami@uconn.edu <br>
 🐈 Fun fact, Mostafa means *The Chosen One*! (◕‿◕)
 
